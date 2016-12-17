@@ -1,4 +1,3 @@
-
 module.exports = {
   entry: [
     './src/index.js'
@@ -24,3 +23,4 @@ module.exports = {
     historyApiFallback: true,
     contentBase: './'
   }
+};
