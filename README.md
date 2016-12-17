@@ -1,6 +1,7 @@
 # React Redux Starter Kit
 
 Contains extra to make redux application:
+
     * react-router
     * redux
     * lodash
@@ -8,6 +9,7 @@ Contains extra to make redux application:
 # Testing
 
 Uses specific packages for testing both react and redux:
+
     * chai
     * mocha
     * enzyme
