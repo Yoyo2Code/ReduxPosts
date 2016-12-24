@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const FETCH_POST = 'FETCH_POSTS';
+export const FETCH_POSTS = 'FETCH_POSTS';
 
 const ROOT_URL = 'http://reduxblog.herokuapp.com/api';
 const API_KEY = '?key=ninjasarecoolerthanyours';
